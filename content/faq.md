@@ -17,7 +17,7 @@ Because we believe Bitcoin is the native currency of the Internet. Read more [he
 # Who can apply to the program?
 Anyone that wants to build a Bitcoin or a Lightning venture. 
 # What's the program's format?
-First 4-8 weeks are dedicated to training and ideation. Selected mentors with work closely with the teams to refine their ideas and implement a prototype. Based on the initial work, Plep TLV will decide whether to continue working with the team and enter a second stage (2-3 months) where we provide continued mentoring, funding and access to our global network. The goal of the second stage it to prepare the company for an initial release (MVP) and secure addtional funds.    
+First 4-8 weeks are dedicated to training and ideation. Selected mentors with work closely with the teams to refine their ideas and implement a prototype. Based on the initial work, Plep TLV will decide whether to continue working with the team and enter a second stage (2-3 months) where we provide continued mentoring, funding and access to our global network. The goal of the second stage it to prepare the company for an initial release (MVP) and secure additional funds.    
 # How much do you invest?
 Based on the project’s stage and needs, teams will receive investment offers. Investment terms and tools will vary for each project.
 # Do you provide an office space?
