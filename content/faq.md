@@ -22,3 +22,5 @@ First 4-8 weeks are dedicated to training and ideation. Selected mentors with wo
 Based on the project’s stage and needs, teams will receive investment offers. Investment terms and tools will vary for each project.
 # Do you provide an office space?
 Yes, we will optionally provide teams with a suitable office space in the center of Tel-Aviv. 
+
+If you have any other questions or need more information, please send us an [email](mailto:plebtlv@gmail.com).
