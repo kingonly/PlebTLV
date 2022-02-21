@@ -3,8 +3,8 @@ framed = false
 +++
 # Welcome to Pleb TLV!
 
-Pleb TLV aims to build the next generation of Bitcoin and Lightning startups in Tel-Aviv. 
-If you've always wanted to start a Bitcoin or a Lightning venture, you belong with us. We will help you ideate, build your product and develop a marketing strategy. We will provide you access to our network of Bitcoin & Lightning companies and investors across the globe in order to raise capital and create strategic partnerships. As part of this program, selected ventures will receive office space and initial capital (in a form of a SAFE). Read more [about]({{< ref "/about" >}} "about") the program. Apply [here](https://forms.gle/XiYzcQ6Q23YTZn8c6).  
+Pleb TLV is cultivating the next generation of Bitcoin and Lightning startups in Tel-Aviv. 
+If you've always wanted to start a Bitcoin or Lightning venture, you belong with us. We will help you ideate, build your product, and develop a marketing strategy. We offer access to our vast network of Bitcoin and Lightning companies and investors around the globe. The capital and strategic partnerships you need are out there waiting, and we can show you.  Selected ventures will receive office space and initial capital (in form of a [SAFE](https://en.wikipedia.org/wiki/Simple_agreement_for_future_equity)). Read more [about]({{< ref "/about" >}} "about") the program. Apply [here](https://forms.gle/XiYzcQ6Q23YTZn8c6).  
 
 ![Bitcoin Wants You](/img/bwy.jpg 'Bitcoin Wants You')  
 
