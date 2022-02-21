@@ -8,6 +8,7 @@ author = ""
 * Seasoned entrepreneurs ([Roy Sheinfeld](https://www.linkedin.com/in/roysheinfeld) from [Breez](https://breez.technology))
 * Technology experts ([Nadav Ivgi](https://www.linkedin.com/in/nadavivgi), [Roei Erez](https://www.linkedin.com/in/roeierez))
 * Bitcoin & Lightning-focused VCs ([Hawk Digital Innovation](https://www.hawkdigitalinnovation.com), [Hivemind](https://hivemind.vc), [Fulgur Ventures](https://fulgur.ventures))
+* Supported by [Bitcoin emBassy](https://www.bitembassy.org)
 # Why are we doing it?
 We're out to harness the energy and talent in Tel Aviv to drive innovation and accelerate Bitcoin's rise to its full potential. 
 # Why Bitcoin only?
