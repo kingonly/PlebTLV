@@ -7,20 +7,20 @@ author = ""
 # Who's behind Pleb TLV? 
 * Seasoned entrepreneurs ([Roy Sheinfeld](https://www.linkedin.com/in/roysheinfeld) from [Breez](https://breez.technology))
 * Technology experts ([Nadav Ivgi](https://www.linkedin.com/in/nadavivgi), [Roei Erez](https://www.linkedin.com/in/roeierez))
-* Bitcoin & Lightning focused VCs ([Hawk Digital Innovation](https://www.hawkdigitalinnovation.com), [Hivemind](https://hivemind.vc), [Fulgur Ventures](https://fulgur.ventures))
+* Bitcoin & Lightning-focused VCs ([Hawk Digital Innovation](https://www.hawkdigitalinnovation.com), [Hivemind](https://hivemind.vc), [Fulgur Ventures](https://fulgur.ventures))
 # Why are we doing it?
-We want to harness the energy and talent in Tel-Aviv to bring innovation and help Bitcoin realize its full potential. 
+We're out to harness the energy and talent in Tel Aviv to drive innovation and accelerate Bitcoin's rise to its full potential. 
 # Why Bitcoin only?
-Because we believe Bitcoin is the native currency of the Internet. Read more [here](https://bitcoin.org/bitcoin.pdf).
+Bitcoin is the native currency of the Internet. Read more [here](https://bitcoin.org/bitcoin.pdf).
 # WTF is a pleb?
-[Plebs](https://bitcoinmagazine.com/culture/plebs-patricians-bitcoin-rome) stay humble, curious, always learning, understand the rabbit hole never ends. 
+[Plebs](https://bitcoinmagazine.com/culture/plebs-patricians-bitcoin-rome) stay humble and curious, are always learning, and understand that the rabbit hole never ends. 
 # Who can apply to the program?
-Anyone that wants to build a Bitcoin or a Lightning venture. 
-# What's the program's format?
-First 4-8 weeks are dedicated to training and ideation. Selected mentors with work closely with the teams to refine their ideas and implement a prototype. Based on the initial work, Plep TLV will decide whether to continue working with the team and enter a second stage (2-3 months) where we provide continued mentoring, funding and access to our global network. The goal of the second stage it to prepare the company for an initial release (MVP) and secure additional funds.    
+Anyone who wants to build a Bitcoin or Lightning venture. 
+# What's the format?
+The first 4-8 weeks are dedicated to training and ideation. Selected mentors work closely with the teams to refine their ideas and develop a prototype. Based on the initial work, Pleb TLV will decide whether to continue working with the team and enter a second stage (2-3 months), during which we provide continued mentoring, funding, and access to our global network. The second stage prepares the company for an initial release (MVP) and to secure additional funds.    
 # How much do you invest?
-Based on the project’s stage and needs, teams will receive investment offers. Investment terms and tools will vary for each project.
-# Do you provide an office space?
-Yes, we will optionally provide teams with a suitable office space in the center of Tel-Aviv. 
+Investment terms and tools will vary for each project depending on its stage and needs.
+# Do you provide office space?
+Yes, we can provide teams with suitable office space in the center of Tel-Aviv. 
 
-If you have any other questions or need more information, please send us an [email](mailto:plebtlv@gmail.com).
+If you have any other questions or need more information, please [contact us](mailto:plebtlv@gmail.com).
