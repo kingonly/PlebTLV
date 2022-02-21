@@ -4,14 +4,14 @@ date = "2022-02-01"
 author = ""
 +++
 
-Plep TLV is a Bitcoin & Lightning incubator that provides training, mentoring and business support in the following areas: 
+Pleb TLV is a Bitcoin and Lightning incubator that provides training, mentoring, and business support in the following areas: 
 # Ideation 
 # Technology
 * Architecture
 * Initial MVP
 # Fundraising 
 * Pre-seed investment
-* Pitch deck design
+* Pitch-deck design
 * Feedback sessions
 * Investor introductions
 # Marketing
