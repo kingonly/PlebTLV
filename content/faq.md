@@ -17,6 +17,8 @@ Bitcoin is the native currency of the Internet. Read more [here](https://bitcoin
 [Plebs](https://bitcoinmagazine.com/culture/plebs-patricians-bitcoin-rome) stay humble and curious, are always learning, and understand that the rabbit hole never ends. 
 # Who can apply to the program?
 Anyone who wants to build a Bitcoin or Lightning venture. 
+# What does the program provide?
+All you need to bring your venture to life. See [here](/about).
 # What's the format?
 The first 4-8 weeks are dedicated to training and ideation. Selected mentors work closely with the teams to refine their ideas and develop a prototype. Based on the initial work, Pleb TLV will decide whether to continue working with the team and enter a second stage (2-3 months), during which we provide continued mentoring, funding, and access to our global network. The second stage prepares the company for an initial release (MVP) and to secure additional funds.    
 # How much do you invest?

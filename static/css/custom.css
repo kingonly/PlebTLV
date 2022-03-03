@@ -1,0 +1,12 @@
+a.cta,
+a.cta:hover,
+a.cta:active {
+  display: inline-flex;
+  text-decoration: none;
+  color: #ff6266;
+  padding: 3px 8px;
+  box-shadow: none;
+  margin: 10px 0;
+  max-width: 100%;
+  border: 2px solid;
+}
