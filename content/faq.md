@@ -5,12 +5,12 @@ author = ""
 +++
 
 # Who's behind Pleb TLV? 
-* Seasoned entrepreneurs ([Jeremy Rubin](https://rubin.io) from [Judica](https://judica.org), [Roy Sheinfeld](https://www.linkedin.com/in/roysheinfeld) from [Breez](https://breez.technology))
+* Seasoned entrepreneurs ([Jeremy Rubin](https://rubin.io) from [Judica](https://judica.org) & [Roy Sheinfeld](https://www.linkedin.com/in/roysheinfeld) from [Breez](https://breez.technology))
 * Technology experts ([Nadav Ivgi](https://www.linkedin.com/in/nadavivgi), [Roei Erez](https://www.linkedin.com/in/roeierez), [Dani Kenan](https://www.linkedin.com/in/dani-kenan-1828885))
 * Bitcoin & Lightning-focused VCs ([Hawk Digital Innovation](https://www.hawkdigitalinnovation.com), [Hivemind](https://hivemind.vc), [Fulgur Ventures](https://fulgur.ventures), [Lightning Ventures](https://ltng.ventures))
 * Supported by [Bitcoin emBassy](https://www.bitembassy.org)
 # Who else is involved? 
-The program also includes outside mentors and advisors: [Giacomo Zucco](https://giacomozucco.com), [Ryan Gentry](https://www.linkedin.com/in/ryan-gentry-186a6a59) and [Jacob Strumwasser](https://www.linkedin.com/in/jacob-strumwasser-55633a2).   
+The program also includes external mentors and advisors: [Giacomo Zucco](https://giacomozucco.com), [Ryan Gentry](https://www.linkedin.com/in/ryan-gentry-186a6a59), and [Jacob Strumwasser](https://www.linkedin.com/in/jacob-strumwasser-55633a2).   
 # Why are we doing it?
 We're out to harness the energy and talent in Tel Aviv to drive innovation and accelerate Bitcoin's rise to its full potential. 
 # Why Bitcoin only?
