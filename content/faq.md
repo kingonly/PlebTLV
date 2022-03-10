@@ -6,7 +6,7 @@ author = ""
 
 # Who's behind Pleb TLV? 
 * Seasoned entrepreneurs ([Jeremy Rubin](https://rubin.io) from [Judica](https://judica.org) & [Roy Sheinfeld](https://www.linkedin.com/in/roysheinfeld) from [Breez](https://breez.technology))
-* Technology experts ([Nadav Ivgi](https://www.linkedin.com/in/nadavivgi), [Roei Erez](https://www.linkedin.com/in/roeierez), [Dani Kenan](https://www.linkedin.com/in/dani-kenan-1828885))
+* Technology experts ([Nadav Ivgi](https://github.com/shesek), [Roei Erez](https://github.com/roeierez), [Dani Kenan](https://github.com/danikenan))
 * Bitcoin & Lightning-focused VCs ([Hawk Digital Innovation](https://www.hawkdigitalinnovation.com), [Hivemind](https://hivemind.vc), [Fulgur Ventures](https://fulgur.ventures), [Lightning Ventures](https://ltng.ventures))
 * Supported by [Bitcoin emBassy](https://www.bitembassy.org)
 # Who else is involved? 
