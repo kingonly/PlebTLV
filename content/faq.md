@@ -15,6 +15,10 @@ The program also includes external mentors and advisors: [Giacomo Zucco](https:/
 We're out to harness the energy and talent in Tel Aviv to drive innovation and accelerate Bitcoin's rise to its full potential. 
 # Why Bitcoin only?
 Bitcoin is the native currency of the Internet. Read more [here](https://bitcoin.org/bitcoin.pdf).
+# Why Tel Aviv?
+Israel’s capital city is the epicenter of tech and VC in the EMEA area in virtually every vertical. Whatever industry you’re disrupting with bitcoin, the people are here.
+Tel Aviv resembles Silicon Valley in many ways. The big difference is that the community is much denser. Tel Aviv is more like a small town – everybody knows everybody, and we all take each other’s calls. 
+Tel Aviv isn’t the next big thing, it’s the already-big thing with better weather than Mountain View, a cosmopolitan feel where [fine dining and shawarma](https://www.easttowestrms.com/food-Tel-Aviv-guide/) are equally at home, and [a beach](https://www.visit-tel-aviv.com/en/tel-avivs-beaches) for every preference.
 # WTF is a pleb?
 [Plebs](https://bitcoinmagazine.com/culture/plebs-patricians-bitcoin-rome) stay humble and curious, are always learning, and understand that the rabbit hole never ends. 
 # Who can apply to the program?
@@ -30,10 +34,4 @@ Yes, we can provide teams with suitable office space in the center of Tel-Aviv.
 
 If you have any other questions or need more information, please [contact us](mailto:plebtlv@gmail.com).
 
-# Why Tel Aviv?
-Israel’s capital city is the epicenter of tech and VC in the EMEA area in virtually every vertical. Whatever industry you’re disrupting with bitcoin, the people are here.
-
-Tel Aviv resembles Silicon Valley in many ways. The big difference is that the community is much denser. Tel Aviv is more like a small town – everybody knows everybody, and we all take each other’s calls. 
-
-Tel Aviv isn’t the next big thing, it’s the already-big thing with better weather than Mountain View, a cosmopolitan feel where [fine dining and shawarma](https://www.easttowestrms.com/food-Tel-Aviv-guide/) are equally at home, and [a beach](https://www.visit-tel-aviv.com/en/tel-avivs-beaches) for every preference.
 
