@@ -29,3 +29,11 @@ Investment terms and tools will vary for each project depending on its stage and
 Yes, we can provide teams with suitable office space in the center of Tel-Aviv. 
 
 If you have any other questions or need more information, please [contact us](mailto:plebtlv@gmail.com).
+
+# Why Tel Aviv?
+Israel’s capital city is the epicenter of tech and VC in the EMEA area in virtually every vertical. Whatever industry you’re disrupting with bitcoin, the people are here.
+
+Tel Aviv resembles Silicon Valley in many ways. The big difference is that the community is much denser. Tel Aviv is more like a small town – everybody knows everybody, and we all take each other’s calls. 
+
+Tel Aviv isn’t the next big thing, it’s the already-big thing with better weather than Mountain View, a cosmopolitan feel where [fine dining and shawarma](https://www.easttowestrms.com/food-Tel-Aviv-guide/) are equally at home, and [a beach](https://www.visit-tel-aviv.com/en/tel-avivs-beaches) for every preference.
+
