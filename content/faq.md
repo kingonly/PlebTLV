@@ -1,6 +1,6 @@
 +++
 title = "FAQ"
-date = "2022-02-21"
+date = "2022-05-27"
 author = ""
 +++
 
@@ -13,7 +13,7 @@ author = ""
 The program also includes external mentors and advisors: [Giacomo Zucco](https://giacomozucco.com), [Ryan Gentry](https://www.linkedin.com/in/ryan-gentry-186a6a59), and [Jacob Strumwasser](https://www.linkedin.com/in/jacob-strumwasser-55633a2).   
 # Why are we doing it?
 We're out to harness the energy and talent in Tel Aviv to drive innovation and accelerate Bitcoin's rise to its full potential. 
-# Why Bitcoin only?
+# Why Bitcoin?
 Bitcoin is the native currency of the Internet. Read more [here](https://bitcoin.org/bitcoin.pdf).
 # Why Tel Aviv?
 Israel’s capital city is the epicenter of tech and VC in the EMEA area in virtually every vertical. Whatever industry you’re disrupting with bitcoin, the people are here.
