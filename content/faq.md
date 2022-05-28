@@ -16,7 +16,7 @@ We're out to harness the energy and talent in Tel Aviv to drive innovation and a
 # Why Bitcoin?
 Bitcoin is the native currency of the Internet. Read more [here](https://bitcoin.org/bitcoin.pdf).
 # Why Tel Aviv?
-Israel’s capital city is the epicenter of tech and VC in the EMEA area in virtually every vertical. Whatever industry you’re disrupting with bitcoin, the people are here.
+Israel’s [mediterranean capital of cool](https://www.nytimes.com/slideshow/2008/07/20/travel/0720-TELAVIV_index.html) is the epicenter of tech and VC in the EMEA area in virtually every vertical. Whatever industry you’re disrupting with bitcoin, the people are here.
 
 Tel Aviv resembles Silicon Valley in many ways. The big difference is that the community is much denser. Tel Aviv is more like a small town – everybody knows everybody, and we all take each other’s calls. 
 
